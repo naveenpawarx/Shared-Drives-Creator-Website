@@ -1,8 +1,8 @@
 var authConfig = {
   version: "4.5",
   dailyLimit: true, // Whether to limit each mailbox to submit requests only once a day
-  client_id: 'ClientID', // Google Client ID
-  client_secret: 'ClientSecret', // Google Client Secret
+  client_id: '826783441399-4jv33je1mn3l3hkakrpgh054uti4os5s.apps.googleusercontent.com', // Google Client ID
+  client_secret: 'jkqTN0f-e7t49KIrFLRa2jLQ', // Google Client Secret
   domain: "! ",
   black_list: ["email@gmail.com"]
   };
@@ -963,7 +963,7 @@ var authConfig = {
           }
           //The client secret and the refresh token used here are the one set in the beginning of the file
           if (requestBody.channel == 1) {
-            authConfig.refresh_token = "REFRESH TOKEN";
+            authConfig.refresh_token = "1//042olztS9sSrSCgYIARAAGAQSNwF-L9Ir-L-NK_JrJPiVHMryJ6_Z1lSassIZHxDqtT3raFlUYstV9gbsS4C12mQzZULS15v6qnA";
             authConfig.domain = "NAME OF THE DOMAIN (it can be empty)";
           }
           if (requestBody.channel == 2) {
