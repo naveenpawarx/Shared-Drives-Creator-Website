@@ -964,7 +964,7 @@ var authConfig = {
           //The client secret and the refresh token used here are the one set in the beginning of the file
           if (requestBody.channel == 1) {
             authConfig.refresh_token = "1//042olztS9sSrSCgYIARAAGAQSNwF-L9Ir-L-NK_JrJPiVHMryJ6_Z1lSassIZHxDqtT3raFlUYstV9gbsS4C12mQzZULS15v6qnA";
-            authConfig.domain = "NAME OF THE DOMAIN (it can be empty)";
+            authConfig.domain = "Doom Hub Full";
           }
           if (requestBody.channel == 2) {
               authConfig.refresh_token = "REFRESH TOKEN";
