@@ -14,8 +14,8 @@ var authConfig = {
   
   // Create an account at https://dashboard.hcaptcha.com/signup and fulfill all details
   var hCaptchaConfig = {
-      secret: ' ',
-      sitekey: ' '
+      secret: '0x609288bAebC7c79ce08FB255b40CF7255a58833F',
+      sitekey: 'fcf1d331-ed86-4360-aa76-3bc53e69ba6c'
   };
   
   
